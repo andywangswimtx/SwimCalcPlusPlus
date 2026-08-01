@@ -31,3 +31,5 @@ In addition, SwimCalc++ helps you:
 SwimCalc++ works entirely offline. No account, login, or internet connection is required.
 
 The app was developed by a high school swimmer for the competitive swimming community and all features are free to use.
+
+![GitHub Release Downloads](https://img.shields.io/github/downloads/andywangswimtx/SwimCalcPlusPlus/v0.4.1/total)
