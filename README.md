@@ -1,4 +1,4 @@
-
+<p align="center"> <img src="base-icon.png" width="140" alt="SwimMotiv logo"> </p>
 
 <h1 align="center">SwimCalc++ [Age 13 and over]</h1>
 
