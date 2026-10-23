@@ -1,4 +1,6 @@
-# **SwimCalc++**
+
+
+<h1 align="center">SwimCalc++ [Age 13 and over]</h1>
 
 Built for high school swimmers chasing NCAA roster spots (D1, D2, and D3), and optimized for quick, easy use right at the pool deck. Start unlocking your college potential today — **100% FREE, no catch!**
 
